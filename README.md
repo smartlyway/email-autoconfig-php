@@ -60,3 +60,5 @@ https://developer.apple.com/library/content/featuredarticles/iPhoneConfiguration
 The information has been extracted generally from this URLs:
 http://web.archive.org/web/20120828065248/http://moens.ch/2012/05/31/providing-email-client-autoconfiguration-information/
 https://github.com/Tiliq/autodiscover.xml
+
+Repo is an abstraction of https://github.com/BTCAssessors/email-autoconfig
